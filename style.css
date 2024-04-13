@@ -25,6 +25,9 @@ header{
     text-align: center;
     margin-bottom: 20px;
 }
+a{
+    text-decoration: none;
+}
 .threee{
     color: white;
     background-color: red;
