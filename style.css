@@ -1,0 +1,327 @@
+@font-face {
+    font-family: "Inter";
+    src: url(fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+body{
+    background-color: #011222;
+    margin: auto;
+}
+header{
+    height: 10%;
+    width: 100%;
+    background-color: white;
+}
+.two{
+    text-decoration: underline;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 20px;
+    float: right;
+    padding-top: 30px;
+}
+.three{
+    width: 100%;
+    height: 860px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.threee{
+    color: white;
+    background-color: red;
+    width: 126px;
+    height: 30px;
+    padding-top: 15px;
+    border-radius: 7px;
+    text-align: center;
+    size: 100%;
+    margin-bottom: 20px;
+    margin: auto;
+}
+.four{
+    width: 40%;
+    float: inline-start;
+    position: absolute;
+    top: 50%;
+}
+.four1{
+    font-size: 50px;
+    color: white;
+    padding-bottom: 20px;
+}
+.four2{
+    font-size: 30px;
+    text-align: center;
+    color: #D2CDCD;
+}
+.five{
+    width: 100%;
+    float: inline-end;
+    inline-size : 60% ;
+    height: 100%;
+}
+.fivee{
+    background-color: white;
+    width: 70%;
+    border-radius: 7px;
+    height: 35px;
+    padding-top: 17.5px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    position: absolute;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+    bottom: -60%;
+}
+.kevin{
+    color: white;
+    text-decoration: underline;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+}
+.seven{
+    text-align: center;
+    margin-top: 20px;
+    background-color: white;
+    width: 100%;
+    height: 250px;
+    border-radius: 25px;
+    text-decoration: underline;
+    font-size: 16.5px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+.eight{
+    width: 100%;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.nine{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    height: 800px;
+}
+.nineone{
+    float: left;
+    width: 50%;
+    height: 50%;
+}
+.ninetwo{
+    float: right;
+    width: 50%;
+    height: 50%;
+    float: inline-end;
+    inline-size : 50%;
+}
+.ten{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+    margin-top: 20px;
+}
+.eleven{
+    border-radius: 55px;
+    width: 100%;
+    height: 582px;
+    background-color: white;
+    display: flex; 
+    flex-direction: column; 
+    margin-bottom: 80px;
+}
+.oneee{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    text-align: center;
+}
+.elevenn{
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    flex-wrap: wrap;
+    font-size: 18px;
+}
+.price{
+    text-align: center; 
+    border: solid;
+    padding: 8.5px;
+    width: fit-content;
+    text-align: center; 
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.title{
+    font-weight: bolder;
+}
+.twelfe{
+    width: 100%;
+    height: 20%;
+    vertical-align:middle;
+    text-align: center;
+}
+.twelfee{
+    margin: auto;
+    background-color: #202A37;
+    color: white;
+    vertical-align:middle;
+    text-align: center;
+    line-height: 50px;
+    width: 158px;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 25px;
+    position: relative;
+    bottom: -25%;
+    box-shadow: 2px 2px 5px black;
+}
+.thirteen{
+    margin: auto;
+    width: 75%;
+    height: 460.75px;
+    display: flex;
+}
+.thirteen1{
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    background-color: white;
+    margin-right: 10px;
+    border-radius: 15px;
+}
+.thirteen2{
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    border-radius: 15px;
+    background-color: white;
+    float: right;
+    margin-left: 10px;
+}
+.ab{
+    color: #202A37;
+    font-size: 38px;
+    font-weight: 600;
+}
+.cd{
+    color: #B3ACAC;
+    font-size: 32px;
+    font-weight: 500;
+}
+.fourteen{
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    font-size: 96px;
+    margin-bottom: 20px;
+}
+.fiveteen{
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.sixteen{
+    width: 75%;
+    margin: auto;
+}
+.sixteen1{
+    float: left;
+}
+.sixteen2{
+    float: right;
+}
+.seventeen{
+    width: 95%;
+    margin: auto;
+    border: 2px solid white;
+    height: 147px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    margin-bottom: 10px;
+    border-radius: 35px;
+}
+.seventeen1{
+    border: 1px solid white;
+    text-align: center;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    grid-column: 1 / span 1;
+    border-radius: 35px 0px 0px 35px;
+    grid-row: 1 / span 2;
+}
+.seventeen2{
+    text-align: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    border: 1px solid white;
+    grid-column: 2 / span 2;
+}
+.seventeen3{
+    border: 1px solid white;
+    grid-column: 4 / span 3;
+    text-align: center;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
+    font-weight: 600;
+    color: white;
+    font-size: 21px;
+    border-radius: 0px 35px 0px 0px;
+}
+.seventeen4{
+    border: 1px solid white;
+    grid-column: 2 / span 2;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+.seventeen5{
+    border: 1px solid white;
+    grid-column: 4 / span 1;
+    text-align: center;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
+    display: flex;
+}
+.seventeen6{
+    border: 1px solid white;
+    grid-column: 5 / span 2 ;
+    border-radius: 0px 0px 35px 0px;
+    text-align: center;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
+    font-weight: 600;
+    color: white;
+    font-size: 14px;
+}
+
