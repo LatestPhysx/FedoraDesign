@@ -47,6 +47,11 @@ input[type=submit]{
     border-radius: 20px;
     border: 0;
 }
+input[type=submit]:hover{
+    background-color: black;
+    color: white;
+    transition: 0.57s;
+}
 .sub{
     color: rgb(255, 255, 255);
     font-size: large;
@@ -72,4 +77,9 @@ input[type=submit]{
 #al{
     position: relative;
     right: 160px;
+}
+.last{
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
 }

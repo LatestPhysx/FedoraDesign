@@ -74,3 +74,12 @@
     justify-content: center;
     align-items:center;
 }
+:hover.price{
+    background-color: black;
+    color: white;
+    transition: 0.57s;
+}
+.last{
+    width: 100%;
+    text-align: center;
+}

@@ -19,3 +19,7 @@ body{
     color: rgb(0, 0, 0);
     font-size: 150%;
 }
+.last{
+    width: 100%;
+    text-align: center;
+}
