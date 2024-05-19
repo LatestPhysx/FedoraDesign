@@ -85,6 +85,11 @@ a{
     margin-right:auto;
     bottom: -60%;
 }
+:hover.fivee{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,33,33,1) 0%, rgba(246,33,158,1) 0%, rgba(108,20,238,1) 100%, rgba(0,212,255,1) 100%);
+    color: white;
+    transition: 0.57s;
+}
 .kevin{
     color: white;
     text-decoration: underline;
