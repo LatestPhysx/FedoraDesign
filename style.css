@@ -262,13 +262,19 @@ a{
     margin-bottom: 30px;
 }
 .sixteen{
-    width: 75%;
+    display: flex;
+    width: 100%;
     margin: auto;
+    margin-bottom: 35px;
 }
 .sixteen1{
+    text-align: center;
+    width: 50%;
     float: left;
 }
 .sixteen2{
+    text-align: center;
+    width: 50%;
     float: right;
 }
 .seventeen{
